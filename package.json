@@ -1,0 +1,27 @@
+{
+  "name": "people-xls-maintainer",
+  "version": "1.0.0",
+  "description": "Simpliroute programming classes  first project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gbahamondezc/people-xls-maintainer.git"
+  },
+  "keywords": [
+    "SimpliRoute",
+    "API"
+  ],
+  "author": "developers@simpliroute.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gbahamondezc/people-xls-maintainer/issues"
+  },
+  "homepage": "https://github.com/gbahamondezc/people-xls-maintainer#readme",
+  "dependencies": {
+    "inquirer": "^6.2.0",
+    "xlsx": "^0.14.0"
+  }
+}
